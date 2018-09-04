@@ -20,8 +20,11 @@
 		</Item>
 		<Item Name="B- Layered Schemes" Type="Folder"/>
 		<Item Name="C- Extensible &amp; Configurable" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="1. Development Environment.vi" Type="VI" URL="../C- Extensible &amp; Configurable/1. Development Environment.vi"/>
+			<Item Name="ModuleA.lvclass" Type="LVClass" URL="../C- Extensible &amp; Configurable/ModuleA class/ModuleA.lvclass"/>
 		</Item>
+		<Item Name="Create ModuleA.vi" Type="VI" URL="../C- Extensible &amp; Configurable/ModuleA class/Create ModuleA.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Conditional Auto-Indexing Tunnel (Bool)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Conditional Auto-Indexing Tunnel (Bool)__ogtk.vi"/>
