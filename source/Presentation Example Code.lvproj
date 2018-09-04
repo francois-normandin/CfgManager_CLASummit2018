@@ -12,8 +12,16 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="1. Simple Unit Test with Caraya.vi" Type="VI" URL="../1. Simple Unit Test/1. Simple Unit Test with Caraya.vi"/>
-		<Item Name="PolyA.lvclass" Type="LVClass" URL="../PolyA class/PolyA.lvclass"/>
+		<Item Name="A- Empowering Unit Tests" Type="Folder">
+			<Item Name="1. First-Order Polynomial Test.vi" Type="VI" URL="../A- Empowering Unit Testing/1. First-Order Polynomial Test.vi"/>
+			<Item Name="2. Second-Order Polynomial Test.vi" Type="VI" URL="../A- Empowering Unit Testing/2. Second-Order Polynomial Test.vi"/>
+			<Item Name="3. Multiple Polynomial Configurations.vi" Type="VI" URL="../A- Empowering Unit Testing/3. Multiple Polynomial Configurations.vi"/>
+			<Item Name="PolyA.lvclass" Type="LVClass" URL="../A- Empowering Unit Testing/PolyA class/PolyA.lvclass"/>
+		</Item>
+		<Item Name="B- Layered Schemes" Type="Folder"/>
+		<Item Name="C- Extensible &amp; Configurable" Type="Folder">
+			<Item Name="1. Development Environment.vi" Type="VI" URL="../C- Extensible &amp; Configurable/1. Development Environment.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Conditional Auto-Indexing Tunnel (Bool)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Conditional Auto-Indexing Tunnel (Bool)__ogtk.vi"/>
