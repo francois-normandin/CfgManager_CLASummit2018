@@ -18,7 +18,11 @@
 			<Item Name="3. Multiple Polynomial Configurations.vi" Type="VI" URL="../A- Empowering Unit Testing/3. Multiple Polynomial Configurations.vi"/>
 			<Item Name="PolyA.lvclass" Type="LVClass" URL="../A- Empowering Unit Testing/PolyA class/PolyA.lvclass"/>
 		</Item>
-		<Item Name="B- Layered Schemes" Type="Folder"/>
+		<Item Name="B- Layered Schemes" Type="Folder">
+			<Item Name="Pump.lvclass" Type="LVClass" URL="../B- Layered Schemes/Pump class/Pump.lvclass"/>
+			<Item Name="Pump.Simulated.lvclass" Type="LVClass" URL="../B- Layered Schemes/Pump.Simulated class/Pump.Simulated.lvclass"/>
+			<Item Name="Standalone Pump.vi" Type="VI" URL="../B- Layered Schemes/Standalone Pump.vi"/>
+		</Item>
 		<Item Name="C- Extensible &amp; Configurable" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="1. Development Environment.vi" Type="VI" URL="../C- Extensible &amp; Configurable/1. Development Environment.vi"/>
@@ -101,6 +105,7 @@
 				<Item Name="MD5Checksum pad.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/MD5Checksum.llb/MD5Checksum pad.vi"/>
 				<Item Name="MD5Checksum string.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/MD5Checksum.llb/MD5Checksum string.vi"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
+				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Open URL in Default Browser (path).vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser (path).vi"/>
 				<Item Name="Open URL in Default Browser (string).vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser (string).vi"/>
