@@ -1,0 +1,4 @@
+ModuleA:Configuration.Boolean = true
+ModuleA:Configuration.Numeric = 1.32E-8
+ModuleA:Configuration.Numeric 2 = -88871
+ModuleA:Configuration.String = "Simple KVP"

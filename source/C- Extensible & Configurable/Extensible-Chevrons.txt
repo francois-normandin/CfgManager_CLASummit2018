@@ -1,0 +1,4 @@
+ModuleC>>Configuration.Boolean @ true
+ModuleC>>Configuration.Numeric @ 6.28
+ModuleC>>Configuration.Numeric 2 @ 42
+ModuleC>>Configuration.String @ "unusual delimiters"

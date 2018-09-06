@@ -1,0 +1,4 @@
+ModuleB:Configuration.Boolean = ZmFsc2U=
+ModuleB:Configuration.Numeric = MTIzLjQ1MDAwMDAwMDAwMA==
+ModuleB:Configuration.Numeric 2 = LTY1Ni4xMDAwMDAwMDAwMDA=
+ModuleB:Configuration.String = IkJhc2U2NEVuY29kZWQi
