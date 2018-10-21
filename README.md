@@ -9,5 +9,7 @@ The BSD license only applies to the presentation itself. If you refer to this pr
 
 # Video of the presentation
 https://labviewvideo.tecnova.com/
+
 Login instructions: https://lavag.org/topic/20645-labview-videos-tecnova-download-site/
+
 Search "normandin" to narrow down the list of videos available.
